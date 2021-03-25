@@ -7,12 +7,6 @@ I'm a lead frontend developer and designer at Olaii d.o.o. I love turning ideas 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klemen1337&theme=dark&bg_color=0D1117&hide_border=true&layout=compact">
 
-<p align="center">
-  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Klemen1337&theme=dark&bg_color=0D1117&hide_border=true&layout=compact)
-
-</p>
-
 <!--
 **Klemen1337/Klemen1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
