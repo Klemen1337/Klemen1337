@@ -7,7 +7,7 @@ I'm a lead frontend developer and designer at Olaii d.o.o. I love turning ideas 
 
 ### 📊 Github Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Klemen1337&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Klemen1337&theme=nord&layout=compact)
 
 
 <!--
