@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I'm a lead frontend developer and lead designer at Olaii d.o.o.
+
 <a href="https://www.linkedin.com/in/klemenkastelic/">
   <img align="left" alt="Klemens's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
