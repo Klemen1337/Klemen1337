@@ -2,10 +2,7 @@
 
 I'm a lead frontend developer and designer at Olaii d.o.o. I love turning ideas to reality.
 
-<a href="https://www.linkedin.com/in/klemenkastelic/">
-  <img align="left" alt="Klemens's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klemenkastelic/)](https://www.linkedin.com/in/klemenkastelic/)
 
 <!--
 **Klemen1337/Klemen1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
