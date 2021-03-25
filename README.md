@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://www.linkedin.com/in/klemenkastelic/">
+  <img align="left" alt="Klemens's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <!--
 **Klemen1337/Klemen1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
