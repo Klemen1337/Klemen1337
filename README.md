@@ -6,12 +6,13 @@ I'm a lead frontend developer and designer at Olaii d.o.o. I love turning ideas 
 
 
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=Klemen1337&theme=dark&bg_color=0D1117&hide_border=true&layout=compact&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klemen1337&theme=dark&bg_color=0D1117&hide_border=true&layout=compact" />
 </p>
 
 <!--
 **Klemen1337/Klemen1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src=https://github-readme-stats.vercel.app/api?username=Klemen1337&theme=dark&bg_color=0D1117&hide_border=true&layout=compact&hide_title=true" />
 
 Here are some ideas to get you started:
 
